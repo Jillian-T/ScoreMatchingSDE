@@ -13,7 +13,7 @@ In __MNIST_GEN.ipynb__, we build a diffusion pipeline to establish the diffusion
 This notebook can run in colab T4 runtime directly
 
 ## Requirements
-pytorch >= 1.8
-diffusers >= 0.21.4
-datasets >= 2.14.4
-imageio >= 2.31.1
+* pytorch >= 1.8
+* diffusers >= 0.21.4
+* datasets >= 2.14.4
+* imageio >= 2.31.1
